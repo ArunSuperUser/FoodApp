@@ -67,7 +67,7 @@ Start the frontend development server:
 
 npm start
 
-The application should now open and run locally at http://localhost:3000.
+
 
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -88,6 +88,6 @@ Open a Pull Request
 This project is distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-Arun - @YourTwitterHandle - your-email@example.com
+
 
 Project Link: https://github.com/ArunSuperUser/FoodApp
